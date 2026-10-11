@@ -1,22 +1,41 @@
-# Siddharth's Portfolio Website
+# Siddharth Singh — Developer Portfolio
 
-A responsive portfolio website built with plain HTML, CSS, and JavaScript.
+A modern, responsive personal portfolio built with HTML, CSS, and JavaScript.
 
-## Run locally
-1. Extract the ZIP.
+## About
+
+I'm a Computer Science student interested in web development, Python, and building useful digital experiences.
+
+## Features
+
+- Responsive layout for desktop and mobile
+- Modern dark-themed design
+- Projects showcase
+- Skills section
+- Contact section with email link
+- Mobile navigation menu
+
+## Built With
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Featured Projects
+
+- **PRAGATI:** Project-monitoring platform.
+- **ResumeIQ:** Resume-focused web application.
+- **Deep Work Timer:** Productivity timer project.
+
+## Run Locally
+
+1. Clone or download this repository.
 2. Open `index.html` in your browser.
 
-## Before publishing
-- Replace `YOUR_EMAIL@example.com` in `index.html` with your actual professional email.
-- Review every project description and technology label so it accurately reflects your work.
-- Add your GitHub and LinkedIn links if you want them displayed.
-- Make sure the PRAGATI link is still live before using it.
-- Use screenshots of your own projects for your Fiverr gallery.
+## Live Demo
 
-## Deploy
-You can publish the folder with GitHub Pages or upload it to a static hosting service.
+Once GitHub Pages is enabled, add your published portfolio URL here.
 
-## Files
-- `index.html` — page content
-- `style.css` — styling and responsive layouts
-- `script.js` — mobile menu and current year
+## Contact
+
+Feel free to connect with me about web development projects and collaboration.
