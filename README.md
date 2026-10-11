@@ -34,7 +34,7 @@ I'm a Computer Science student interested in web development, Python, and buildi
 
 ## Live Demo
 
-Once GitHub Pages is enabled, add your published portfolio URL here.
+https://siddharth-singh-cs.github.io/Siddharth-portfolio-/
 
 ## Contact
 
